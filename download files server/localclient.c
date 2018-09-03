@@ -15,6 +15,9 @@
 #define PORT 0x0da2
 #define IP_ADDR 0x7f000001
 
+/*Created by Shira Levy & Sahar Gezer */
+
+
 int main(int argc, char *argv[])
 {
 	int r, fd,nWrite=1;

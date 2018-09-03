@@ -16,6 +16,9 @@
 #define IP_ADDR 0x7f000001
 #define QUEUE_LEN 20
 
+/*Created by Shira Levy & Sahar Gezer */
+
+
 int main(int argc, char *argv[])
 {
 	//open socket
